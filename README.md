@@ -1,0 +1,2 @@
+# readNCfile
+一个方便读取nc属性和利用xarray快速可视化的程序
